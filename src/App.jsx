@@ -3,7 +3,7 @@ export default function App() {
 
   return (
   <div className=" bg-VeryLightGray min-h-svh px-6 py-[5.5rem]">
-    <div className="lg:w-[920px] mx-auto">
+    <div className="lg:w-[920px] mx-auto lg:mt-40">
       <div className="lg:flex">
         <section className="p-12 flex flex-col gap-[25px] justify-start items-start bg-BrightOrange ">
           <img src="images/icon-sedans.svg" alt="icon-sedans" />
