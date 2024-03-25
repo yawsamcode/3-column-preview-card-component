@@ -24,7 +24,7 @@ The users should be able to:
 
 ## 🚀 Demo <a id="demo"></a>
 
-<h4><a href="https://scoot-multi-page-website-nine.vercel.app/">  Visit Demo 👉</a></h4>
+<h4><a href="https://3-column-preview-card-component-ivory-eight.vercel.app/">  Visit Demo 👉</a></h4>
 
 
 ## Project Screenshots <a id="screenshot"></a>
