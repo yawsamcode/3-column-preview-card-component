@@ -3,7 +3,7 @@ export default function App() {
 
   return (
   <div className=" bg-VeryLightGray min-h-svh px-6 py-[5.5rem] lg:py-0">
-    <div className="lg:w-[920px] mx-auto lg:translate-y-1/2">
+    <main className="lg:w-[920px] mx-auto lg:translate-y-1/2">
       <div className="lg:flex rounded-lg">
       <section className="p-12 flex flex-col gap-[25px] justify-start items-start bg-BrightOrange lg:rounded-l-lg">
           <img src="images/icon-sedans.svg" alt="icon-sedans" />
@@ -26,7 +26,7 @@ export default function App() {
             <button className="bg-white text-VeryDarkCyan px-8 py-3 rounded-full text-base font-normal leading-6 font-LexendDeca hover:bg-transparent hover:text-white hover:ring-2 ring-white transition-all">Learn More</button>
         </section>
         </div>
-      </div>
+      </main>
     </div>
   )
 }
